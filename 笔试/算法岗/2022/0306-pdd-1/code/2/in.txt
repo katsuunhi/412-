@@ -1,0 +1,7 @@
+3
+2 4
+aabb
+1 7
+abcdefg
+0 5
+abcde
